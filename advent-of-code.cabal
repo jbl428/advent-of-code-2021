@@ -30,6 +30,7 @@ library
       Day3.Solution
       Day4.Solution
       Day5.Solution
+      Day6.Solution
   other-modules:
       Paths_advent_of_code
   hs-source-dirs:
@@ -65,6 +66,7 @@ test-suite advent-of-code-test
       Day3.SolutionSpec
       Day4.SolutionSpec
       Day5.SolutionSpec
+      Day6.SolutionSpec
       Paths_advent_of_code
   hs-source-dirs:
       test
