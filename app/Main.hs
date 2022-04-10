@@ -24,3 +24,4 @@ main = do
   print $ D5.solvePart2 content
   content <- readFile "input/day6.txt"
   print $ D6.solvePart1 content
+  print $ D6.solvePart2 content
