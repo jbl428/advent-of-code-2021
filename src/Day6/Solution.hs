@@ -7,7 +7,6 @@ module Day6.Solution
   )
 where
 
-import Control.Monad (when)
 import Flow ((|>))
 import Text.Parsec (ParseError, char, digit, many1, parse, sepBy1)
 import Text.Parsec.String (Parser)
